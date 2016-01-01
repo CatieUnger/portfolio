@@ -1,2 +1,2 @@
 # portfolio
-Online portfolio for Catie Unger, Seattle-based web developer.
+Online portfolio for CU
