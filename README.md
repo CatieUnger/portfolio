@@ -1,2 +1,2 @@
 # portfolio
-Online portfolio for CU
+Online portfolio
